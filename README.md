@@ -1,9 +1,8 @@
-# JDBC-CAR-RENTAL-SYSTEM :star_struck: :nut_and_bolt: :hammer: :date: :credit_card: :computer:
+# JDBC-CAR-RENTAL-SYSTEM :star_struck: :date: :credit_card: :computer: :car:
 
 [![Generic badge](https://img.shields.io/badge/database-management%20system-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/java%20-programming-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/sql-8.0-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/JDK-version%2016-ff69b4)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/mysql%20connector%20jar-external%20library-critical)](https://shields.io/)
-<BR>
 
-***This new 'Auto Repair Shop Management System' using JDBC is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+***This new 'Car-Rental-System' using JDBC is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -20,10 +19,8 @@
 
 <div align="justified">
   
-More than two-third of automotive customers indicate that Service. Convenience is a determining in selecting a brand or purchasing from a Specific dealership Consequently, Customer Service and service management is of vital relevance to ensure ongoing Customer loyalty and retention and ultimately, dealer Profitability. Auto repair shop Management enables efficient Service order Processing designed for any given number of orders per day. It includes Service requests and Scheduling Optimization of techicans tools, and parts as well as their deployment and scheduling . User friendly interfaces provides ease of use and the integration technology ensure a seamless and smooth business. Service 
-monitoring and analysis increases the Visibility in Overall fixed Operations and helps increases service Capacity utilization efficiency and decreased operating cost.
-Recreation Vehicle service technician inspect, test, service, and replace every system installed in a recreation Vehicle within the particular day. Both intervals are equally important for properly marinating your Vehicle. I have made this project using Java Database Connectivity. Using this user can easily manage an auto-repair-shop. The old manual system was suffering from a series of drawbacks. Since whole of the system was to be maintained with hands the process of keeping, maintaining and retrieving the information was very tedious and lengthy. The records were never used to be in a systematic order. There used to be lots of difficulties in associating any particular transaction with a particular context. If any information was to be found it was required to go through the different registers, documents there would never exist anything like report generation. 
-There would always be unnecessary consumption of time while entering records and retrieving records. One more problem was that it was very difficult to find errors while entering the records. Once the records were entered it was very difficult to update these records. The reason behind it is that there is lot of information to be maintained and have to be kept in mind while running the business. For this reason we have provided features Present system is partially automated (computerized), actually existing system is quite laborious as one has to enter same information at three different places. **Here in this project we can add sustomers, display whole record, search particular customer information, delete any record, update any phone number in auto-repair-shop system.**
+
+  
 </div>
 
 ## Options in this system :point_down:
