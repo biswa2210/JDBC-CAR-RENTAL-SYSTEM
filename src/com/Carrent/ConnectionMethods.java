@@ -2,7 +2,11 @@ package com.Carrent;
 import java.sql.*;
 import java.util.Arrays;
 import java.util.Scanner;
-
+/*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
 public class ConnectionMethods {
     public static boolean InsertToDB(Rent rt){
         boolean f=false;
