@@ -171,31 +171,18 @@ Such error handling easy searching and safer security of storing data is only be
 ## Screenshots :point_down: 
 
 <div align="center">
-<a href="pics/shop1.png"><img src="pics/shop1.png" width="800" height= "300"></a> 
+
+<a href="car1.png"><img src="car1.png" width="800" height= "300"></a> 
      
-<a href="pics/shop2.png"><img src="pics/shop2.png" width="800" height= "300"></a>
+<a href="car2.png"><img src="car2.png" width="800" height= "300"></a> 
 
-<a href="pics/shop3.png"><img src="pics/shop3.png" width="800" height= "300"></a>
+<a href="car3.png"><img src="car3.png" width="800" height= "300"></a> 
 
-<a href="pics/shop4.png"><img src="pics/shop4.png" width="800" height= "300"></a>
+<a href="car4.png"><img src="car4.png" width="800" height= "300"></a> 
 
-<a href="pics/shop5.png"><img src="pics/shop5.png" width="800" height= "300"></a>
+<a href="car5.png"><img src="car5.png" width="800" height= "300"></a>
 
-<a href="pics/shop6.png"><img src="pics/shop6.png" width="800" height= "300"></a>
-
-<a href="pics/shop7.png"><img src="pics/shop7.png" width="800" height= "300"></a>
-
-<a href="pics/shop8.png"><img src="pics/shop8.png" width="800" height= "300"></a>
-
-<a href="pics/shop9.png"><img src="pics/shop9.png" width="800" height= "300"></a>
-
-<a href="pics/shop10.png"><img src="pics/shop10.png" width="800" height= "300"></a>
-
-<a href="pics/shop11.png"><img src="pics/shop11.png" width="800" height= "300"></a>
-
-<a href="pics/shop12.png"><img src="pics/shop12.png" width="800" height= "300"></a>
-
-<a href="pics/shop13.png"><img src="pics/shop13.png" width="800" height= "300"></a>
+<a href="car6.png"><img src="car6.png" width="800" height= "300"></a>
 
 </div>
 
