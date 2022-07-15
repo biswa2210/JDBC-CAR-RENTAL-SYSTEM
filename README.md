@@ -15,13 +15,9 @@
 <a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
-## About :point_down: 
+## CAR RENTAL SYSTEM JDBC DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=6LrU2B80nh8&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0&index=8">Click here to watch</a>
 
-<div align="justified">
-  
-
-  
-</div>
+## JAVA PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=bCoFqFb76Jc&list=PL0lbDlMJ1h4hUbx_a40pP1nGYfTTvhf_0">Click here to watch</a>
 
 ## Options in this system :point_down:
 
@@ -35,7 +31,7 @@
 
 <div align="justified">
   
-A auto repair shop management is a system that can be used for repairing car for specified time period. With the increasing complexity of current vehicle computer systems, the user is more and more naïve with what goes on under the hood of the car. The minimal mechanical savvy of most drivers makes them unnecessarily panic anytime their car check-engine light suddenly turns on. This system increases customer retention and simplify vehicle and staff management. 
+A Car rental is a system that can be used for taking rent car for specified time period. With the increasing complexity of current vehicle computer systems, the user is more and more naïve with what goes on under the hood of the car. The minimal mechanical savvy of most drivers makes them unnecessarily panic anytime their car check-engine light suddenly turns on. This system increases customer retention and simplify vehicle and staff management. 
 Aims and Objectives :-
  - To produce a Java based database connected (JDBC) software system<br>
 that allow customer data entry and reserve a particular model of car 
@@ -131,7 +127,7 @@ estimates made within a limited time frame at the beginning of the software proj
 ## Folder Structure :point_down:
 
 ```bash
-AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT
+CAR-RENTAL-JDBC-PROJECT
      ├── .idea
      |      ├── libraries
      |      |        └── mysql-connector-java_8_0_23.iml
@@ -140,7 +136,7 @@ AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT
      |      ├── misc.xml
      |      ├── modules.xml
      |      └── project-template.xml
-     ├── out/production/AUTO REPAIR SHOP/com
+     ├── out/production/CAR RENTAL SYSTEM/com
      |       ├── Carrepair
      |       |       ├── ConnectionProvider.class
      |       |       ├── ConnectionMethods.class
@@ -154,7 +150,7 @@ AUTO-REPAIR-SHOP-JDBC-MINI-PROJECT
      |       |       └── customer.java
      |       └── Menu
      |               └── Main.java
-     └── AUTO REPAIR SHOP.iml
+     └── CAR REPAIR SYSTEM.iml
 ```                       
 
 ## Making :point_down:
